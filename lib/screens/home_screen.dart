@@ -20,7 +20,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
         appBar: AppBar(
           backgroundColor: Theme.of(context).colorScheme.primary,
-          title: const Text("แอพบัญชี"),
+          title: const Text("IRON SHOP"),
           actions: [
             IconButton(
               icon: const Icon(Icons.exit_to_app),
